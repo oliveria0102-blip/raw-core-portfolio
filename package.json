@@ -1,0 +1,13 @@
+{
+  "name": "raw-core-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "engines": {
+    "node": ">=22.5"
+  },
+  "scripts": {
+    "test": "node --experimental-sqlite examples/demo.js",
+    "demo": "node --experimental-sqlite examples/demo.js"
+  }
+}

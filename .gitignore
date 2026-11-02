@@ -1,0 +1,7 @@
+work/
+data/
+.env*
+*.db
+*.db-*
+*.log
+node_modules/

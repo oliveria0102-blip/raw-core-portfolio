@@ -1,0 +1,54 @@
+{
+  "scope": "offline synthetic component checks, not remote agent execution",
+  "passed": 12,
+  "checks": [
+    {
+      "name": "message persistence",
+      "status": "PASS"
+    },
+    {
+      "name": "same payload reuses message",
+      "status": "PASS"
+    },
+    {
+      "name": "changed payload conflicts",
+      "status": "PASS"
+    },
+    {
+      "name": "stored message is immutable",
+      "status": "PASS"
+    },
+    {
+      "name": "delivery submission",
+      "status": "PASS"
+    },
+    {
+      "name": "visibility requires digest",
+      "status": "PASS"
+    },
+    {
+      "name": "receipt is not execution",
+      "status": "PASS"
+    },
+    {
+      "name": "execution requires evidence grade",
+      "status": "PASS"
+    },
+    {
+      "name": "forged principal refused",
+      "status": "PASS"
+    },
+    {
+      "name": "provisioned synthetic human decision",
+      "status": "PASS"
+    },
+    {
+      "name": "reopen retains one message",
+      "status": "PASS"
+    },
+    {
+      "name": "SQLite integrity and foreign keys",
+      "status": "PASS"
+    }
+  ]
+}

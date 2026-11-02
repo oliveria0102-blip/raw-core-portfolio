@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-02",
+  "scope": "selected core snapshot, unchanged source bytes",
+  "files": [
+    {
+      "path": "src/core.js",
+      "sha256": "92a20627e0828916a745784f92e3b73b9c1125299a4acb44b00d530f055f2f14"
+    },
+    {
+      "path": "src/db.js",
+      "sha256": "a6a2019d72c528db0288a9b6da319256462bfcdba8b5735704090d403b40b8a5"
+    },
+    {
+      "path": "src/db-versioned.js",
+      "sha256": "6ddc6a584cab7fa24cc22cc1fc52d3d06b1e0ffe9c0c997e6754a16bd7392a28"
+    },
+    {
+      "path": "src/discussion-identity.js",
+      "sha256": "b0b30401bab456f0e6615b78b700ed76ad132b5109d1b7d1266de7c52c6d1e69"
+    },
+    {
+      "path": "schema/core.sql",
+      "sha256": "cad2565fb51064171c1b894a92efad2a8420c043ad5acf23fa606f0585196c28"
+    },
+    {
+      "path": "schema/m2-security.sql",
+      "sha256": "fec85879ac91e9352ac706a882fdcbc65f49fe80399e961be5a0eceff42336db"
+    }
+  ]
+}
